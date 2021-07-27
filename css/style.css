@@ -1,0 +1,27 @@
+*{ padding: 0%;}
+
+.h{ 
+background-color: pink;
+
+text-align: center;
+height: 100px;
+}
+.n{
+background-color: plum;
+
+text-align: center; height: 80px;
+}
+.m{
+
+height: 200px;
+text-align: center; background-color: peachpuff;
+}
+.f{ background-color: violet;
+
+text-align: center; height: 50px;
+}
+.n{
+background-color: coral;
+text-align: center;
+height: 100px;
+}
